@@ -1,7 +1,11 @@
 package com.yashkhade;
 
+/* Node class used to make the basic unit. Everything is a node ( walls, start, stop, open blocks)
+by Yash Khade
+ */
+
 public class Node {
-    private int x, y, g, h ,f;
+    private int x, y, g, h, f;
     private Node parent;
 
     public Node(int x, int y) {
@@ -28,13 +32,15 @@ public class Node {
     public int getF() {
         return f;
     }
-    public Node getNode(){
+
+    public Node getNode() {
         return parent;
     }
 
     public Node getParent() {
         return parent;
     }
+
     public void setXY(int x, int y) {
         this.x = x;
         this.y = y;
