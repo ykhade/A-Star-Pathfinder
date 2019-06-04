@@ -55,7 +55,7 @@ public class Frame extends JPanel implements ActionListener, MouseListener, Mous
         // Set up window
         window = new JFrame();
         window.setContentPane(this);
-        window.setTitle("A* Pathfinding Visualization");
+        window.setTitle("A-Star-Finder");
         window.getContentPane().setPreferredSize(new Dimension(700, 600));
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.pack();
