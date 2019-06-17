@@ -6,7 +6,7 @@ A few points along the development were understanding how A* works and
 using Java frame to create a interactive map.
 
 
-##Getting Started
+## Getting Started
 ``
 $ git clone
 ``
