@@ -18,6 +18,8 @@ $ git clone
 Hold and place a starting point ``a+right-click`` and an ending point 
 ``e+right-click`` Then using ``left-click`` and drag to create walls. Then press start.
 
+![](https://media.giphy.com/media/H7N9Olvu8VB1OZuqyP/giphy.gif)
+
 ## Built With
 * [Java](https://www.oracle.com/technetwork/java/index.html)
 
